@@ -3,7 +3,7 @@ export const personalInfo = {
   role: "Front-End Developer & Computer Engineering Student",
   tagline: "Bridging user-centric web interfaces with resilient network infrastructure. Currently pursuing a BSc. in Computer Engineering at the University of Dodoma (UDOM).",
   location: "Dodoma, Tanzania",
-  email: "nassirungakonda@email.com",
+  email: "nassirungakonda@gmail.com",
   phone: "+255 689 746 092",
   github: "https://github.com/Nassy22",
   linkedin: "https://www.linkedin.com/in/nassiru-ngakonda-bb760634b",

@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Nassiru M. Ngakonda",
   role: "Front-End Developer & Computer Engineering Student",
-  tagline: "Bridging user-centric web interfaces with resilient network infrastructure. Currently pursuing a BSc. in Computer Engineering at the University of Dodoma (UDOM).",
+  tagline: "Bridging user-centric web interfaces with resilient network infrastructure..",
   location: "Dodoma, Tanzania",
   email: "nassirungakonda@gmail.com",
   phone: "+255 689 746 092",
@@ -52,7 +52,7 @@ export const experienceData = [
     role: "BSc. Computer Engineering Student",
     company: "University of Dodoma (UDOM) - CIVE",
     location: "Dodoma, Tanzania",
-    period: "3rd Year (Ongoing)",
+    period: "Graduate",
     highlights: [
       "Specializing in Embedded Systems, Web Development, and Computer Networking.",
       "Completed practical coursework and Industrial Practical Training (IPT) applying software engineering and network administration principles."
